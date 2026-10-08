@@ -1,0 +1,1 @@
+1. Confirm hardware/data classification. 2. Benchmark local model. 3. Add PDF/DOCX/XLSX/OCR ingestion. 4. Add embeddings/vector DB. 5. Add document permissions. 6. Add read-only DB connectors. 7. Add email drafts with approval. 8. Add scheduling/audit/evaluation. 9. Security/load tests.

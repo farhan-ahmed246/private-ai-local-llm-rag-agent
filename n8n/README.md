@@ -1,0 +1,1 @@
+Import `private-ai-local-llm-chat.json` in n8n. Run `ollama pull llama3.2`, activate, then POST `{"message":"Hello local AI"}` to `http://localhost:5678/webhook/private-ai-chat`. Docker may require host.docker.internal.

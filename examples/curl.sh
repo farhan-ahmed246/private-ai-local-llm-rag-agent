@@ -1,0 +1,1 @@
+curl -X POST http://127.0.0.1:8000/assistant/message -H 'Content-Type: application/json' -d '{"message":"What are office support hours?"}'

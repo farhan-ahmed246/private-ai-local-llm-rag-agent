@@ -1,0 +1,1 @@
+Use synthetic data. Keep services on localhost/private network; do not expose unauthenticated endpoints. Set APP_BEARER_TOKEN before sharing API. Never commit secrets or confidential records. Require human approval for actions. Security review required before production.

@@ -1,0 +1,1 @@
+Start Ollama before API/workflow. Monitor disk/memory, update dependencies after testing, back up approved data and test restore procedures.

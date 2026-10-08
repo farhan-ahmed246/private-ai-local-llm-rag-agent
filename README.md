@@ -1,2 +1,2 @@
-# private-ai-local-llm-rag-agent
-private-ai-local-llm-rag-agent
+# Private AI Local LLM + n8n
+Import `n8n/private-ai-local-llm-chat.json` into n8n. Install Ollama and run `ollama pull llama3.2`; activate the workflow and POST `{"message":"Hello local AI"}` to `http://localhost:5678/webhook/private-ai-chat`. Docker users may need `host.docker.internal`. This is a starter prototype, not a production-ready private RAG or email/database agent.

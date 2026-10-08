@@ -1,0 +1,1 @@
+Use synthetic/anonymized data. Obtain authorization, classify records, set retention/deletion rules and verify permissions before processing company data.

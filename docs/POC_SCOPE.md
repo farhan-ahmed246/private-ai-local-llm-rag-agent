@@ -1,0 +1,1 @@
+POC includes local Ollama chat, synthetic demo data and importable n8n webhook. Email sending, database writes, production OCR and enterprise permissions are separate scope items.

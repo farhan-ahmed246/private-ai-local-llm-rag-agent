@@ -1,0 +1,1 @@
+n8n webhook → validation → Ollama local generate endpoint → response. FastAPI demo uses basic lexical retrieval from local .txt/.md files. This is not vector RAG. Production requires vector DB, OCR/parsing, document permissions, audit and monitoring.

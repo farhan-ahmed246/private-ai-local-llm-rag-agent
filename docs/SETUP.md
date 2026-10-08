@@ -1,0 +1,1 @@
+Install Ollama and run `ollama pull llama3.2`. Windows: `uv venv`; `uv pip install -r requirements.txt`; `Copy-Item .env.example .env`; `uv run uvicorn app.main:app --host 127.0.0.1 --port 8000`. Visit `/docs` on port 8000. Add synthetic .txt/.md files to data/.

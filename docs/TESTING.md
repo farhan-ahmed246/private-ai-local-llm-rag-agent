@@ -1,0 +1,1 @@
+Run `pytest` after installing requirements. Unit tests are starter checks, not end-to-end or security certification.

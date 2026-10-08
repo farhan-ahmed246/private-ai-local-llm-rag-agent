@@ -1,0 +1,1 @@
+Workflow is chat-only. FastAPI retrieval is lexical and supports .txt/.md. Email/database adapters are placeholders. Not production-ready.
